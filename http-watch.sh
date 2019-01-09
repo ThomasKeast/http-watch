@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#################################################################################
 # Imports variables from a config file
 source ./config
 
