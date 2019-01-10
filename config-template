@@ -20,3 +20,6 @@ LOGGING=1
 
 # Custom path for the Logging [ Do not add the trailing '/']
 LOG_PATH='/var/log'
+
+# Filename for the list used in list mode
+LIST_NAME='lhttp-websites.txt'
